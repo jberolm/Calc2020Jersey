@@ -7,3 +7,4 @@ deploy:
   api_key:
     secure: $HEROKU_KEY
   app: calc2020jersey
+  on: main
